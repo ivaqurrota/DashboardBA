@@ -1,2 +1,0 @@
-import pandas as pd
-data = pd.read_csv("https://raw.githubusercontent.com/ivaqurrota/DashboardBA/main/dataEAS.csv")
